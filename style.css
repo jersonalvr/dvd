@@ -6,7 +6,7 @@
 
 body {
     overflow: hidden;
-    background: #000;
+    background: transparent;
     font-family: Arial, sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: relative;
-    background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%);
+    background: transparent;
 }
 
 #dvd-logo {
