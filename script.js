@@ -19,8 +19,8 @@ const colors = [
 // Variables de posición y velocidad
 let x = Math.random() * (container.clientWidth - dvdLogo.offsetWidth);
 let y = Math.random() * (container.clientHeight - dvdLogo.offsetHeight);
-let dx = 3; // Velocidad horizontal
-let dy = 3; // Velocidad vertical
+let dx = 1; // Velocidad horizontal
+let dy = 1; // Velocidad vertical
 let currentColorIndex = 0;
 
 // Función para cambiar el color del SVG
